@@ -1,4 +1,5 @@
-site_name: Toronto Green Map Resources
+site_name: Toronto Green Map Toolkit
 theme: yeti
 pages:
-- <i class="fa fa-globe white"></i>&nbsp;&nbsp;Resources: index.md
+- Toolkit: index.md
+- Index Your Project: index-your-project.md
