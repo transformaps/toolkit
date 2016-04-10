@@ -48,7 +48,7 @@ You can test your newsletter's structured data using Google's [Gmail Markup Test
 
 ## Your Website
 
-<div class="alert alert-info" role="alert"><strong>Note</strong>: This section currently covers <strong>Wordpress</strong>, if you have a different website setup please <a href="#contact">get in touch</a>!</div>
+<div class="alert alert-warning" role="alert"><strong>Note</strong>: This section currently covers <strong>Wordpress</strong>, if you have a different website setup please <a href="#contact">get in touch</a>!</div>
 
 ### Index Your Project on the Toronto Green Map
 
@@ -57,11 +57,13 @@ Instructions to add your project to the Toronto Green Map can be found on on the
 
 ### Markup Your Site with Structured Data
 
-A quick way to make your site or project more findable from Google or other search engines is through the use of Structured Data, there are a few Wordpress plugins that allow for the generation of Strctured Data:
+A quick way to make your site or project more findable from Google or other search engines is through the use of Structured Dat. There are a few Wordpress plugins that allow for the generation of Structured Data. One that works well with Toronto Green Map is:
 
-- <i class="fa fa-wordpress"></i> [Schema Creator by Raven](http://schema-creator.org/wordpress.php)
+- <i class="fa fa-wordpress"></i>&nbsp;[WP SEO Structured Data Schema](https://wordpress.org/plugins/wp-seo-structured-data-schema/)
 
-You can test your website's structured data using Google's [Structured Data Testing Tool Structured Data Testing Tool ](https://developers.google.com/structured-data/testing-tool/).
+You can test your website's structured data using Google's [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/).
+
+<div class="alert alert-info" role="alert"><strong>Data Details</strong>: The structured data schemas that cover information about an organization and website are: <a href="https://schema.org/WebSite" target="_blank"><!---_--->WebSite</a>, <a href="https://schema.org/LocalBusiness" target="_blank"><!---_--->LocalBusiness</a> (especially when location is important!), and <a href="https://schema.org/Organization" target="_blank"><!---_--->Organization</a> (all from <a href="https://schema.org/" target="_blank"><!---_--->schema.org</a>)</div>
 
 ### Embed a Map
 
