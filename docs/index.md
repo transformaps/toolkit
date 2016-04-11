@@ -6,8 +6,8 @@ This content is under active development! The goal of this section is to provide
 
 More suggestions are always welcome! If you have any thoughts, please:
 
-- <i class="fa fa-envelope-o"></i> email <info@torontogreenmap.com>
-- <i class="fa fa-github"></i> add a comment to the [issue tracker](https://github.com/torontogreenmap/y2gm-prototype/issues) for this website
+- <i class="fa fa-envelope-o" aria-hidden="true"></i> email <info@torontogreenmap.com>
+- <i class="fa fa-github" aria-hidden="true"></i> add a comment to the [issue tracker](https://github.com/torontogreenmap/y2gm-prototype/issues) for this website
 
 ## Why use this toolkit?
 
@@ -36,13 +36,13 @@ Updates sent through <a href="#newsletter-resources">newsletters</a>, including 
 
 The quickest way to use a map in a newsletter is through using an <a href="#iframe">__iframe__</a>, as with the website above. Once again, __Google Maps__ provides a quick and easy way to do this:
 
-- <i class="fa fa-google"></i> [Google Maps: Embed a map](https://support.google.com/maps/answer/3544418?hl=en)
+- <i class="fa fa-google" aria-hidden="true"></i> [Google Maps: Embed a map](https://support.google.com/maps/answer/3544418?hl=en)
 
 ### Markup Emails with Structured Data Event
 
 When creating a newsletter to send out, you can create content what uses Structured Data which will integrate with Gmail and some other services better. Currently Mailchimp does not support this functionality internally, or through an integration. You can mark up your html (email) using a tool provided by Google:
 
-  - <i class="fa fa-google"></i> [Structured Data Markup Helper](https://www.google.com/webmasters/markup-helper/?hl=en_GB)
+  - <i class="fa fa-google" aria-hidden="true"></i> [Structured Data Markup Helper](https://www.google.com/webmasters/markup-helper/?hl=en_GB)
 
 You can test your newsletter's structured data using Google's [Gmail Markup Tester](https://www.google.com/webmasters/markup-tester/)
 
@@ -59,7 +59,7 @@ Instructions to add your project to the Toronto Green Map can be found on on the
 
 A quick way to make your site or project more findable from Google or other search engines is through the use of Structured Dat. There are a few Wordpress plugins that allow for the generation of Structured Data. One that works well with Toronto Green Map is:
 
-- <i class="fa fa-wordpress"></i>&nbsp;[WP SEO Structured Data Schema](https://wordpress.org/plugins/wp-seo-structured-data-schema/)
+- <i class="fa fa-wordpress" aria-hidden="true"></i>&nbsp;[WP SEO Structured Data Schema](https://wordpress.org/plugins/wp-seo-structured-data-schema/)
 
 You can test your website's structured data using Google's [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/).
 
@@ -73,8 +73,8 @@ Wordpress works well with __Google Maps__, you can embed a map to a specific loc
 
 Additional Wordpress plugins allow for the ability to embed maps:
 
-- <i class="fa fa-wordpress"></i> [WP Google Maps (uses Google Maps)](https://wordpress.org/plugins/wp-google-maps/)
-- <i class="fa fa-wordpress"></i> [MapsMarker (uses OpenStreetMap)](https://www.mapsmarker.com/)
+- <i class="fa fa-wordpress" aria-hidden="true"></i> [WP Google Maps (uses Google Maps)](https://wordpress.org/plugins/wp-google-maps/)
+- <i class="fa fa-wordpress" aria-hidden="true"></i> [MapsMarker (uses OpenStreetMap)](https://www.mapsmarker.com/)
 
 &nbsp;<br />
 
@@ -88,3 +88,7 @@ Additional Wordpress plugins allow for the ability to embed maps:
 </div>
 
 ## Mapping Workshops
+
+One of the best ways to learn more about mapping tools is to teach someone else! As part of the design project that created this website a Green Mapping workshop was held. All the resources are available online, and [Creative Commons licensed](https://creativecommons.org/licenses/by-sa/4.0/) so they can be shared and adapted:
+
+- <i class="fa fa-github" aria-hidden="true"></i> [Green Mapping Workshop](https://github.com/torontogreenmap/workshop-greenmapping/) <a href="https://github.com/torontogreenmap/workshop-greenmapping/blob/master/workshop-greenmapping-v1.pdf">slides <i class="fa fa-file-pdf-o" aria-hidden="true"></i> .pdf</a> and [web mapping resources](https://github.com/torontogreenmap/workshop-greenmapping/blob/master/resources.md)
