@@ -3,3 +3,6 @@ theme: yeti
 pages:
 - Toolkit: index.md
 - Index Your Project: index-your-project.md
+extra_javascript:
+- js/validator.js
+- js/index-project-form.js
